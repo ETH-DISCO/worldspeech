@@ -1,0 +1,48 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.ipynb_checkpoints/
+
+# Environments
+.env
+.env.*
+.venv/
+venv/
+
+# Editors / IDEs
+.vscode/
+.idea/
+*.swp
+.DS_Store
+
+# Logs
+*.log
+logs/
+slurm-*.out
+
+# Credentials and tokens
+*.token
+cookies*.txt
+
+# Local data and outputs
+data/
+results/
+checkpoints/
+*.parquet
+
+# Audio / video binaries
+*.wav
+*.flac
+*.mp3
+*.m4a
+*.ogg
+*.opus
+*.mp4
+*.webm
+*.webm.part
+
+# OS / misc
+*.tmp
+*.bak
