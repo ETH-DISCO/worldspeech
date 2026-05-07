@@ -15,7 +15,7 @@ Use this repo to:
 | Metric | Value |
 |--------|-------|
 | Total hours | 65,072 |
-| Distinct languages | 88 |
+| Distinct languages | 88 (76 over 10h) |
 | Language variations | 127 |
 | Languages >= 1,000 h | 24 |
 | Languages >= 500 h | 28 |
